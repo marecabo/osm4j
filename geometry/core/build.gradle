@@ -11,7 +11,7 @@ dependencies {
 
     api 'com.slimjars.trove4j:trove4j-long-array-stack:1.0.1'
 
-    api 'org.slf4j:slf4j-api:2.0.16'
+    api 'org.slf4j:slf4j-api:2.0.17'
 }
 
 eclipse.project.name = 'osm4j-geometry'
