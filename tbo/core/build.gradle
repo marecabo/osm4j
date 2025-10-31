@@ -13,7 +13,7 @@ dependencies {
 
     api 'org.lz4:lz4-java:1.8.0'
     api 'org.apache.commons:commons-lang3:3.17.0'
-    api 'org.slf4j:slf4j-api:2.0.16'
+    api 'org.slf4j:slf4j-api:2.0.17'
 
     testImplementation project(':osm4j-xml')
     testImplementation project(':osm4j-pbf')
@@ -21,5 +21,5 @@ dependencies {
 
     testImplementation 'junit:junit:4.13.2'
 
-    testRuntimeOnly 'org.slf4j:slf4j-reload4j:2.0.16'
+    testRuntimeOnly 'org.slf4j:slf4j-reload4j:2.0.17'
 }
