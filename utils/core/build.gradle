@@ -10,10 +10,10 @@ dependencies {
     api project(':osm4j-tbo')
     api project(':osm4j-geometry')
 
-    api 'de.topobyte:large-scale-file-io:0.1.0'
+    api 'de.topobyte:large-scale-file-io:0.3.0'
     api 'de.topobyte:adt-geo:0.2.0'
-    api 'de.topobyte:commons-cli-helper:0.1.0'
-    api 'de.topobyte:melon-io:0.1.0'
+    api 'de.topobyte:commons-cli-helper:0.3.0'
+    api 'de.topobyte:melon-io:0.3.0'
 
     api 'com.slimjars.trove4j:trove4j-int-hash-set:1.0.1'
 
