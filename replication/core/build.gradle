@@ -16,7 +16,7 @@ dependencies {
 
     testImplementation project(':osm4j-testing')
 
-    testImplementation 'org.apache.commons:commons-compress:1.27.1'
+    testImplementation 'org.apache.commons:commons-compress:1.28.0'
     testImplementation 'de.topobyte:adt-geo:0.2.0'
     testImplementation 'junit:junit:4.13.2'
 
